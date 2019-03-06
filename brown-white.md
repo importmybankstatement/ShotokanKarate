@@ -29,7 +29,74 @@ Same leg from Zenkutsu dachi - both sides
 # KUMITE
 Any Kihon Ippon Set Hidari or Migi
 
-Jiyu Ippon Set 2 Hidari only
+<details>
+  <summary>Jiyu Ippon Set 2 Hidari only</summary>
+
+## Jodan
+
+![](http://www.cfts-karate.co.uk/images/Set_Images/Jiyu_sets/2101.JPG)
+
+Attacker: Jiyu-dachi (Ready stance)
+
+Defender: Jiyu-dachi (Ready stance)
+
+![](http://www.cfts-karate.co.uk/images/Set_Images/Jiyu_sets/2102.JPG)
+
+Attacker: Step forward jodan oi-zuki (head punch)
+
+Defender: Hidari jodan, nagashi-uke/migi chudan, ura-zuki
+
+![](http://www.cfts-karate.co.uk/images/Set_Images/Jiyu_sets/2103.JPG)
+
+Defender: Close up of ura-zuki
+
+![](http://www.cfts-karate.co.uk/images/Set_Images/Jiyu_sets/2104.JPG)
+
+Defender: Left tate-shuto/hikite gamae
+
+## Chudan
+
+![](http://www.cfts-karate.co.uk/images/Set_Images/Jiyu_sets/2201.JPG)
+
+Attacker: In ji-yu dachi
+
+Defender: In ji-yu dachi
+
+![](http://www.cfts-karate.co.uk/images/Set_Images/Jiyu_sets/2202.JPG)
+
+Attacker: Step in chudan-zuki
+
+Defender: Hidari osae gedan-uke/migi jodan
+
+![](http://www.cfts-karate.co.uk/images/Set_Images/Jiyu_sets/2203.JPG)
+
+Defender: Uraken-uchi
+
+![](http://www.cfts-karate.co.uk/images/Set_Images/Jiyu_sets/2204.JPG)
+
+Defender: Hidari osae gedan-uke/migi jodan
+
+## Mae-Geri
+
+![](http://www.cfts-karate.co.uk/images/Set_Images/Jiyu_sets/2301.JPG)
+
+Attacker: In ji-yu dachi
+
+Defender: In ji-yu dachi
+
+![](http://www.cfts-karate.co.uk/images/Set_Images/Jiyu_sets/2303.JPG)
+
+Defender: Hidari gyaku tate-shuto
+
+![](http://www.cfts-karate.co.uk/images/Set_Images/Jiyu_sets/2304.JPG)
+
+Defender: Choku-zuki/hidari jodan
+
+![](http://www.cfts-karate.co.uk/images/Set_Images/Jiyu_sets/2305.JPG)
+
+Defender: Tate shuto/hikite gamae
+
+</details>
 
 # KATA
 Bassai Dai	 
