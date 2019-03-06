@@ -1,3 +1,4 @@
 ## Shotokan Karate Grading Resources
 
-[Brown](brown.md)
+[2nd Kyu Brown-White](brown-white.md)
+[3rd Kyu Brown](brown.md)
