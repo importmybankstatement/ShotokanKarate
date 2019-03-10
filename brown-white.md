@@ -99,5 +99,9 @@ Defender: Tate shuto/hikite gamae
 </details>
 
 # KATA
+
 Bassai Dai	 
- 
+
+https://youtu.be/E3AOtoeyKDo
+
+
